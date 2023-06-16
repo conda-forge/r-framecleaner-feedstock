@@ -1,11 +1,11 @@
-About r-framecleaner
-====================
+About r-framecleaner-feedstock
+==============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-framecleaner-feedstock/blob/main/LICENSE.txt)
 
 Home: https://harrison4192.github.io/framecleaner/, https://github.com/Harrison4192/framecleaner
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-framecleaner-feedstock/blob/main/LICENSE.txt)
 
 Summary: Provides a friendly interface for modifying data frames with a sequence of piped commands built upon the 'tidyverse' Wickham et al., (2019) <doi:10.21105/joss.01686> . The majority of commands wrap 'dplyr' mutate statements in a convenient way to concisely solve common issues that arise when tidying small to medium data sets. Includes smart defaults and allows flexible selection of columns via 'tidyselect'.
 
